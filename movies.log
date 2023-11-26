@@ -1,0 +1,780 @@
+2023-11-26 11:08:02 - INFO - Successfully fetched URL: https://www.imdb.com/chart/top/
+2023-11-26 11:08:04 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0111161/?ref_=chttp_i_1
+2023-11-26 11:08:05 - INFO - Successfully fetched movie title: 1. The Shawshank Redemption, and director: Frank Darabont.
+2023-11-26 11:08:06 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0068646/?ref_=chttp_i_2
+2023-11-26 11:08:07 - INFO - Successfully fetched movie title: 2. The Godfather, and director: Francis Ford Coppola.
+2023-11-26 11:08:08 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0468569/?ref_=chttp_i_3
+2023-11-26 11:08:08 - INFO - Successfully fetched movie title: 3. The Dark Knight, and director: Christopher Nolan.
+2023-11-26 11:08:10 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0071562/?ref_=chttp_i_4
+2023-11-26 11:08:10 - INFO - Successfully fetched movie title: 4. The Godfather Part II, and director: Francis Ford Coppola.
+2023-11-26 11:08:12 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0050083/?ref_=chttp_i_5
+2023-11-26 11:08:12 - INFO - Successfully fetched movie title: 5. 12 Angry Men, and director: Sidney Lumet.
+2023-11-26 11:08:13 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0108052/?ref_=chttp_i_6
+2023-11-26 11:08:13 - INFO - Successfully fetched movie title: 6. Schindler's List, and director: Steven Spielberg.
+2023-11-26 11:08:15 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0167260/?ref_=chttp_i_7
+2023-11-26 11:08:15 - INFO - Successfully fetched movie title: 7. The Lord of the Rings: The Return of the King, and director: Peter Jackson.
+2023-11-26 11:08:16 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0110912/?ref_=chttp_i_8
+2023-11-26 11:08:17 - INFO - Successfully fetched movie title: 8. Pulp Fiction, and director: Quentin Tarantino.
+2023-11-26 11:08:18 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0120737/?ref_=chttp_i_9
+2023-11-26 11:08:18 - INFO - Successfully fetched movie title: 9. The Lord of the Rings: The Fellowship of the Ring, and director: Peter Jackson.
+2023-11-26 11:08:19 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0060196/?ref_=chttp_i_10
+2023-11-26 11:08:20 - INFO - Successfully fetched movie title: 10. The Good, the Bad and the Ugly, and director: Sergio Leone.
+2023-11-26 11:08:21 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0109830/?ref_=chttp_i_11
+2023-11-26 11:08:21 - INFO - Successfully fetched movie title: 11. Forrest Gump, and director: Robert Zemeckis.
+2023-11-26 11:08:23 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0137523/?ref_=chttp_i_12
+2023-11-26 11:08:23 - INFO - Successfully fetched movie title: 12. Fight Club, and director: David Fincher.
+2023-11-26 11:08:24 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0167261/?ref_=chttp_i_13
+2023-11-26 11:08:24 - INFO - Successfully fetched movie title: 13. The Lord of the Rings: The Two Towers, and director: Peter Jackson.
+2023-11-26 11:08:26 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1375666/?ref_=chttp_i_14
+2023-11-26 11:08:26 - INFO - Successfully fetched movie title: 14. Inception, and director: Christopher Nolan.
+2023-11-26 11:08:27 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0080684/?ref_=chttp_i_15
+2023-11-26 11:08:28 - INFO - Successfully fetched movie title: 15. Star Wars: Episode V - The Empire Strikes Back, and director: Irvin Kershner.
+2023-11-26 11:08:29 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0133093/?ref_=chttp_i_16
+2023-11-26 11:08:29 - INFO - Successfully fetched movie title: 16. The Matrix, and director: Lana Wachowski.
+2023-11-26 11:08:31 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0099685/?ref_=chttp_i_17
+2023-11-26 11:08:31 - INFO - Successfully fetched movie title: 17. Goodfellas, and director: Martin Scorsese.
+2023-11-26 11:08:34 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0073486/?ref_=chttp_i_18
+2023-11-26 11:08:34 - INFO - Successfully fetched movie title: 18. One Flew Over the Cuckoo's Nest, and director: Milos Forman.
+2023-11-26 11:08:37 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0114369/?ref_=chttp_i_19
+2023-11-26 11:08:37 - INFO - Successfully fetched movie title: 19. Se7en, and director: David Fincher.
+2023-11-26 11:08:38 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0038650/?ref_=chttp_i_20
+2023-11-26 11:08:38 - INFO - Successfully fetched movie title: 20. It's a Wonderful Life, and director: Frank Capra.
+2023-11-26 11:08:40 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0047478/?ref_=chttp_i_21
+2023-11-26 11:08:40 - INFO - Successfully fetched movie title: 21. Seven Samurai, and director: Akira Kurosawa.
+2023-11-26 11:08:42 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0816692/?ref_=chttp_i_22
+2023-11-26 11:08:42 - INFO - Successfully fetched movie title: 22. Interstellar, and director: Christopher Nolan.
+2023-11-26 11:08:43 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0102926/?ref_=chttp_i_23
+2023-11-26 11:08:43 - INFO - Successfully fetched movie title: 23. The Silence of the Lambs, and director: Jonathan Demme.
+2023-11-26 11:08:45 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0120815/?ref_=chttp_i_24
+2023-11-26 11:08:45 - INFO - Successfully fetched movie title: 24. Saving Private Ryan, and director: Steven Spielberg.
+2023-11-26 11:08:46 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0317248/?ref_=chttp_i_25
+2023-11-26 11:08:46 - INFO - Successfully fetched movie title: 25. City of God, and director: Fernando Meirelles.
+2023-11-26 11:08:48 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0118799/?ref_=chttp_i_26
+2023-11-26 11:08:48 - INFO - Successfully fetched movie title: 26. Life Is Beautiful, and director: Roberto Benigni.
+2023-11-26 11:08:50 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt9362722/?ref_=chttp_i_27
+2023-11-26 11:08:50 - INFO - Successfully fetched movie title: 27. Spider-Man: Across the Spider-Verse, and director: Joaquim Dos Santos.
+2023-11-26 11:08:52 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0120689/?ref_=chttp_i_28
+2023-11-26 11:08:52 - INFO - Successfully fetched movie title: 28. The Green Mile, and director: Frank Darabont.
+2023-11-26 11:08:53 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0076759/?ref_=chttp_i_29
+2023-11-26 11:08:53 - INFO - Successfully fetched movie title: 29. Star Wars: Episode IV - A New Hope, and director: George Lucas.
+2023-11-26 11:08:55 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0103064/?ref_=chttp_i_30
+2023-11-26 11:08:55 - INFO - Successfully fetched movie title: 30. Terminator 2: Judgment Day, and director: James Cameron.
+2023-11-26 11:08:57 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0088763/?ref_=chttp_i_31
+2023-11-26 11:08:57 - INFO - Successfully fetched movie title: 31. Back to the Future, and director: Robert Zemeckis.
+2023-11-26 11:08:59 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0245429/?ref_=chttp_i_32
+2023-11-26 11:09:00 - INFO - Successfully fetched movie title: 32. Spirited Away, and director: Hayao Miyazaki.
+2023-11-26 11:09:01 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0253474/?ref_=chttp_i_33
+2023-11-26 11:09:01 - INFO - Successfully fetched movie title: 33. The Pianist, and director: Roman Polanski.
+2023-11-26 11:09:03 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0054215/?ref_=chttp_i_34
+2023-11-26 11:09:03 - INFO - Successfully fetched movie title: 34. Psycho, and director: Alfred Hitchcock.
+2023-11-26 11:09:05 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt6751668/?ref_=chttp_i_35
+2023-11-26 11:09:05 - INFO - Successfully fetched movie title: 35. Parasite, and director: Bong Joon Ho.
+2023-11-26 11:09:06 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0172495/?ref_=chttp_i_36
+2023-11-26 11:09:06 - INFO - Successfully fetched movie title: 36. Gladiator, and director: Ridley Scott.
+2023-11-26 11:09:08 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0110357/?ref_=chttp_i_37
+2023-11-26 11:09:08 - INFO - Successfully fetched movie title: 37. The Lion King, and director: Roger Allers.
+2023-11-26 11:09:09 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0110413/?ref_=chttp_i_38
+2023-11-26 11:09:10 - INFO - Successfully fetched movie title: 38. Léon: The Professional, and director: Luc Besson.
+2023-11-26 11:09:11 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0120586/?ref_=chttp_i_39
+2023-11-26 11:09:11 - INFO - Successfully fetched movie title: 39. American History X, and director: Tony Kaye.
+2023-11-26 11:09:13 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0407887/?ref_=chttp_i_40
+2023-11-26 11:09:13 - INFO - Successfully fetched movie title: 40. The Departed, and director: Martin Scorsese.
+2023-11-26 11:09:14 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt2582802/?ref_=chttp_i_41
+2023-11-26 11:09:14 - INFO - Successfully fetched movie title: 41. Whiplash, and director: Damien Chazelle.
+2023-11-26 11:09:18 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0482571/?ref_=chttp_i_42
+2023-11-26 11:09:18 - INFO - Successfully fetched movie title: 42. The Prestige, and director: Christopher Nolan.
+2023-11-26 11:09:20 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0114814/?ref_=chttp_i_43
+2023-11-26 11:09:20 - INFO - Successfully fetched movie title: 43. The Usual Suspects, and director: Bryan Singer.
+2023-11-26 11:09:21 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0095327/?ref_=chttp_i_44
+2023-11-26 11:09:21 - INFO - Successfully fetched movie title: 44. Grave of the Fireflies, and director: Isao Takahata.
+2023-11-26 11:09:23 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0056058/?ref_=chttp_i_45
+2023-11-26 11:09:23 - INFO - Successfully fetched movie title: 45. Harakiri, and director: Masaki Kobayashi.
+2023-11-26 11:09:25 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0034583/?ref_=chttp_i_46
+2023-11-26 11:09:25 - INFO - Successfully fetched movie title: 46. Casablanca, and director: Michael Curtiz.
+2023-11-26 11:09:26 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1675434/?ref_=chttp_i_47
+2023-11-26 11:09:26 - INFO - Successfully fetched movie title: 47. The Intouchables, and director: Olivier Nakache.
+2023-11-26 11:09:30 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0027977/?ref_=chttp_i_48
+2023-11-26 11:09:30 - INFO - Successfully fetched movie title: 48. Modern Times, and director: Charles Chaplin.
+2023-11-26 11:09:32 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0095765/?ref_=chttp_i_49
+2023-11-26 11:09:32 - INFO - Successfully fetched movie title: 49. Cinema Paradiso, and director: Giuseppe Tornatore.
+2023-11-26 11:09:34 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0064116/?ref_=chttp_i_50
+2023-11-26 11:09:34 - INFO - Successfully fetched movie title: 50. Once Upon a Time in the West, and director: Sergio Leone.
+2023-11-26 11:09:35 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0047396/?ref_=chttp_i_51
+2023-11-26 11:09:35 - INFO - Successfully fetched movie title: 51. Rear Window, and director: Alfred Hitchcock.
+2023-11-26 11:09:37 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0078748/?ref_=chttp_i_52
+2023-11-26 11:09:37 - INFO - Successfully fetched movie title: 52. Alien, and director: Ridley Scott.
+2023-11-26 11:09:38 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0021749/?ref_=chttp_i_53
+2023-11-26 11:09:38 - INFO - Successfully fetched movie title: 53. City Lights, and director: Charles Chaplin.
+2023-11-26 11:09:40 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0078788/?ref_=chttp_i_54
+2023-11-26 11:09:40 - INFO - Successfully fetched movie title: 54. Apocalypse Now, and director: Francis Ford Coppola.
+2023-11-26 11:09:41 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1853728/?ref_=chttp_i_55
+2023-11-26 11:09:42 - INFO - Successfully fetched movie title: 55. Django Unchained, and director: Quentin Tarantino.
+2023-11-26 11:09:43 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0209144/?ref_=chttp_i_56
+2023-11-26 11:09:43 - INFO - Successfully fetched movie title: 56. Memento, and director: Christopher Nolan.
+2023-11-26 11:09:45 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0082971/?ref_=chttp_i_57
+2023-11-26 11:09:45 - INFO - Successfully fetched movie title: 57. Raiders of the Lost Ark, and director: Steven Spielberg.
+2023-11-26 11:09:46 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0910970/?ref_=chttp_i_58
+2023-11-26 11:09:47 - INFO - Successfully fetched movie title: 58. WALL·E, and director: Andrew Stanton.
+2023-11-26 11:09:48 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt15398776/?ref_=chttp_i_59
+2023-11-26 11:09:49 - INFO - Successfully fetched movie title: 59. Oppenheimer, and director: Christopher Nolan.
+2023-11-26 11:09:50 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0405094/?ref_=chttp_i_60
+2023-11-26 11:09:50 - INFO - Successfully fetched movie title: 60. The Lives of Others, and director: Florian Henckel von Donnersmarck.
+2023-11-26 11:09:52 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0043014/?ref_=chttp_i_61
+2023-11-26 11:09:52 - INFO - Successfully fetched movie title: 61. Sunset Blvd., and director: Billy Wilder.
+2023-11-26 11:09:54 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0050825/?ref_=chttp_i_62
+2023-11-26 11:09:54 - INFO - Successfully fetched movie title: 62. Paths of Glory, and director: Stanley Kubrick.
+2023-11-26 11:09:55 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt4154756/?ref_=chttp_i_63
+2023-11-26 11:09:55 - INFO - Successfully fetched movie title: 63. Avengers: Infinity War, and director: Anthony Russo.
+2023-11-26 11:09:57 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0081505/?ref_=chttp_i_64
+2023-11-26 11:09:57 - INFO - Successfully fetched movie title: 64. The Shining, and director: Stanley Kubrick.
+2023-11-26 11:09:59 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0032553/?ref_=chttp_i_65
+2023-11-26 11:09:59 - INFO - Successfully fetched movie title: 65. The Great Dictator, and director: Charles Chaplin.
+2023-11-26 11:10:00 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0051201/?ref_=chttp_i_66
+2023-11-26 11:10:01 - INFO - Successfully fetched movie title: 66. Witness for the Prosecution, and director: Billy Wilder.
+2023-11-26 11:10:12 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt4633694/?ref_=chttp_i_67
+2023-11-26 11:10:12 - INFO - Successfully fetched movie title: 67. Spider-Man: Into the Spider-Verse, and director: Bob Persichetti.
+2023-11-26 11:10:13 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0090605/?ref_=chttp_i_68
+2023-11-26 11:10:14 - INFO - Successfully fetched movie title: 68. Aliens, and director: James Cameron.
+2023-11-26 11:10:15 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0361748/?ref_=chttp_i_69
+2023-11-26 11:10:15 - INFO - Successfully fetched movie title: 69. Inglourious Basterds, and director: Quentin Tarantino.
+2023-11-26 11:10:17 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1345836/?ref_=chttp_i_70
+2023-11-26 11:10:17 - INFO - Successfully fetched movie title: 70. The Dark Knight Rises, and director: Christopher Nolan.
+2023-11-26 11:10:18 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0169547/?ref_=chttp_i_71
+2023-11-26 11:10:19 - INFO - Successfully fetched movie title: 71. American Beauty, and director: Sam Mendes.
+2023-11-26 11:10:20 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0057012/?ref_=chttp_i_72
+2023-11-26 11:10:20 - INFO - Successfully fetched movie title: 72. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, and director: Stanley Kubrick.
+2023-11-26 11:10:21 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0364569/?ref_=chttp_i_73
+2023-11-26 11:10:22 - INFO - Successfully fetched movie title: 73. Oldboy, and director: Park Chan-wook.
+2023-11-26 11:10:23 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt2380307/?ref_=chttp_i_74
+2023-11-26 11:10:23 - INFO - Successfully fetched movie title: 74. Coco, and director: Lee Unkrich.
+2023-11-26 11:10:24 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0086879/?ref_=chttp_i_75
+2023-11-26 11:10:25 - INFO - Successfully fetched movie title: 75. Amadeus, and director: Milos Forman.
+2023-11-26 11:10:26 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0114709/?ref_=chttp_i_76
+2023-11-26 11:10:26 - INFO - Successfully fetched movie title: 76. Toy Story, and director: John Lasseter.
+2023-11-26 11:10:28 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0082096/?ref_=chttp_i_77
+2023-11-26 11:10:28 - INFO - Successfully fetched movie title: 77. Das Boot, and director: Wolfgang Petersen.
+2023-11-26 11:10:29 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0112573/?ref_=chttp_i_78
+2023-11-26 11:10:29 - INFO - Successfully fetched movie title: 78. Braveheart, and director: Mel Gibson.
+2023-11-26 11:10:31 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt4154796/?ref_=chttp_i_79
+2023-11-26 11:10:31 - INFO - Successfully fetched movie title: 79. Avengers: Endgame, and director: Anthony Russo.
+2023-11-26 11:10:32 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt7286456/?ref_=chttp_i_80
+2023-11-26 11:10:32 - INFO - Successfully fetched movie title: 80. Joker, and director: Todd Phillips.
+2023-11-26 11:10:34 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0119698/?ref_=chttp_i_81
+2023-11-26 11:10:34 - INFO - Successfully fetched movie title: 81. Princess Mononoke, and director: Hayao Miyazaki.
+2023-11-26 11:10:35 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0119217/?ref_=chttp_i_82
+2023-11-26 11:10:35 - INFO - Successfully fetched movie title: 82. Good Will Hunting, and director: Gus Van Sant.
+2023-11-26 11:10:37 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt5311514/?ref_=chttp_i_83
+2023-11-26 11:10:37 - INFO - Successfully fetched movie title: 83. Your Name., and director: Makoto Shinkai.
+2023-11-26 11:10:38 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0087843/?ref_=chttp_i_84
+2023-11-26 11:10:39 - INFO - Successfully fetched movie title: 84. Once Upon a Time in America, and director: Sergio Leone.
+2023-11-26 11:10:40 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0057565/?ref_=chttp_i_85
+2023-11-26 11:10:41 - INFO - Successfully fetched movie title: 85. High and Low, and director: Akira Kurosawa.
+2023-11-26 11:10:42 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1187043/?ref_=chttp_i_86
+2023-11-26 11:10:42 - INFO - Successfully fetched movie title: 86. 3 Idiots, and director: Rajkumar Hirani.
+2023-11-26 11:10:44 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0045152/?ref_=chttp_i_87
+2023-11-26 11:10:44 - INFO - Successfully fetched movie title: 87. Singin' in the Rain, and director: Stanley Donen.
+2023-11-26 11:10:45 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt8267604/?ref_=chttp_i_88
+2023-11-26 11:10:45 - INFO - Successfully fetched movie title: 88. Capernaum, and director: Nadine Labaki.
+2023-11-26 11:10:47 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0180093/?ref_=chttp_i_89
+2023-11-26 11:10:47 - INFO - Successfully fetched movie title: 89. Requiem for a Dream, and director: Darren Aronofsky.
+2023-11-26 11:10:48 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0091251/?ref_=chttp_i_90
+2023-11-26 11:10:49 - INFO - Successfully fetched movie title: 90. Come and See, and director: Elem Klimov.
+2023-11-26 11:10:50 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0435761/?ref_=chttp_i_91
+2023-11-26 11:10:51 - INFO - Successfully fetched movie title: 91. Toy Story 3, and director: Lee Unkrich.
+2023-11-26 11:10:53 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0086190/?ref_=chttp_i_92
+2023-11-26 11:10:53 - INFO - Successfully fetched movie title: 92. Star Wars: Episode VI - Return of the Jedi, and director: Richard Marquand.
+2023-11-26 11:10:55 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0338013/?ref_=chttp_i_93
+2023-11-26 11:10:55 - INFO - Successfully fetched movie title: 93. Eternal Sunshine of the Spotless Mind, and director: Michel Gondry.
+2023-11-26 11:10:57 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0062622/?ref_=chttp_i_94
+2023-11-26 11:10:58 - INFO - Successfully fetched movie title: 94. 2001: A Space Odyssey, and director: Stanley Kubrick.
+2023-11-26 11:11:00 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt2106476/?ref_=chttp_i_95
+2023-11-26 11:11:00 - INFO - Successfully fetched movie title: 95. The Hunt, and director: Thomas Vinterberg.
+2023-11-26 11:11:02 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0105236/?ref_=chttp_i_96
+2023-11-26 11:11:02 - INFO - Successfully fetched movie title: 96. Reservoir Dogs, and director: Quentin Tarantino.
+2023-11-26 11:11:04 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0044741/?ref_=chttp_i_97
+2023-11-26 11:11:05 - INFO - Successfully fetched movie title: 97. Ikiru, and director: Akira Kurosawa.
+2023-11-26 11:11:06 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0056172/?ref_=chttp_i_98
+2023-11-26 11:11:07 - INFO - Successfully fetched movie title: 98. Lawrence of Arabia, and director: David Lean.
+2023-11-26 11:11:09 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0053604/?ref_=chttp_i_99
+2023-11-26 11:11:09 - INFO - Successfully fetched movie title: 99. The Apartment, and director: Billy Wilder.
+2023-11-26 11:11:11 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0033467/?ref_=chttp_i_100
+2023-11-26 11:11:11 - INFO - Successfully fetched movie title: 100. Citizen Kane, and director: Orson Welles.
+2023-11-26 11:11:13 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0022100/?ref_=chttp_i_101
+2023-11-26 11:11:13 - INFO - Successfully fetched movie title: 101. M, and director: Fritz Lang.
+2023-11-26 11:11:16 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0053125/?ref_=chttp_i_102
+2023-11-26 11:11:16 - INFO - Successfully fetched movie title: 102. North by Northwest, and director: Alfred Hitchcock.
+2023-11-26 11:11:19 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0052357/?ref_=chttp_i_103
+2023-11-26 11:11:19 - INFO - Successfully fetched movie title: 103. Vertigo, and director: Alfred Hitchcock.
+2023-11-26 11:11:21 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0036775/?ref_=chttp_i_104
+2023-11-26 11:11:21 - INFO - Successfully fetched movie title: 104. Double Indemnity, and director: Billy Wilder.
+2023-11-26 11:11:23 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0211915/?ref_=chttp_i_105
+2023-11-26 11:11:23 - INFO - Successfully fetched movie title: 105. Amélie, and director: Jean-Pierre Jeunet.
+2023-11-26 11:11:25 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0086250/?ref_=chttp_i_106
+2023-11-26 11:11:25 - INFO - Successfully fetched movie title: 106. Scarface, and director: Brian De Palma.
+2023-11-26 11:11:27 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0093058/?ref_=chttp_i_107
+2023-11-26 11:11:27 - INFO - Successfully fetched movie title: 107. Full Metal Jacket, and director: Stanley Kubrick.
+2023-11-26 11:11:29 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0066921/?ref_=chttp_i_108
+2023-11-26 11:11:29 - INFO - Successfully fetched movie title: 108. A Clockwork Orange, and director: Stanley Kubrick.
+2023-11-26 11:11:31 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1255953/?ref_=chttp_i_109
+2023-11-26 11:11:31 - INFO - Successfully fetched movie title: 109. Incendies, and director: Denis Villeneuve.
+2023-11-26 11:11:33 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0113277/?ref_=chttp_i_110
+2023-11-26 11:11:33 - INFO - Successfully fetched movie title: 110. Heat, and director: Michael Mann.
+2023-11-26 11:11:35 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1049413/?ref_=chttp_i_111
+2023-11-26 11:11:36 - INFO - Successfully fetched movie title: 111. Up, and director: Pete Docter.
+2023-11-26 11:11:38 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0056592/?ref_=chttp_i_112
+2023-11-26 11:11:38 - INFO - Successfully fetched movie title: 112. To Kill a Mockingbird, and director: Robert Mulligan.
+2023-11-26 11:11:40 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt8503618/?ref_=chttp_i_113
+2023-11-26 11:11:41 - INFO - Successfully fetched movie title: 113. Hamilton, and director: Thomas Kail.
+2023-11-26 11:11:43 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0070735/?ref_=chttp_i_114
+2023-11-26 11:11:43 - INFO - Successfully fetched movie title: 114. The Sting, and director: George Roy Hill.
+2023-11-26 11:11:45 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1832382/?ref_=chttp_i_115
+2023-11-26 11:11:45 - INFO - Successfully fetched movie title: 115. A Separation, and director: Asghar Farhadi.
+2023-11-26 11:11:48 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0097576/?ref_=chttp_i_116
+2023-11-26 11:11:48 - INFO - Successfully fetched movie title: 116. Indiana Jones and the Last Crusade, and director: Steven Spielberg.
+2023-11-26 11:11:50 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0017136/?ref_=chttp_i_117
+2023-11-26 11:11:50 - INFO - Successfully fetched movie title: 117. Metropolis, and director: Fritz Lang.
+2023-11-26 11:11:53 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0095016/?ref_=chttp_i_118
+2023-11-26 11:11:53 - INFO - Successfully fetched movie title: 118. Die Hard, and director: John McTiernan.
+2023-11-26 11:11:55 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0986264/?ref_=chttp_i_119
+2023-11-26 11:11:55 - INFO - Successfully fetched movie title: 119. Like Stars on Earth, and director: Aamir Khan.
+2023-11-26 11:11:57 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0208092/?ref_=chttp_i_120
+2023-11-26 11:11:58 - INFO - Successfully fetched movie title: 120. Snatch, and director: Guy Ritchie.
+2023-11-26 11:12:00 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0040522/?ref_=chttp_i_121
+2023-11-26 11:12:00 - INFO - Successfully fetched movie title: 121. Bicycle Thieves, and director: Vittorio De Sica.
+2023-11-26 11:12:03 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0119488/?ref_=chttp_i_122
+2023-11-26 11:12:03 - INFO - Successfully fetched movie title: 122. L.A. Confidential, and director: Curtis Hanson.
+2023-11-26 11:12:05 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0075314/?ref_=chttp_i_123
+2023-11-26 11:12:05 - INFO - Successfully fetched movie title: 123. Taxi Driver, and director: Martin Scorsese.
+2023-11-26 11:12:07 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt8579674/?ref_=chttp_i_124
+2023-11-26 11:12:08 - INFO - Successfully fetched movie title: 124. 1917, and director: Sam Mendes.
+2023-11-26 11:12:09 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0363163/?ref_=chttp_i_125
+2023-11-26 11:12:10 - INFO - Successfully fetched movie title: 125. Downfall, and director: Oliver Hirschbiegel.
+2023-11-26 11:12:11 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt5074352/?ref_=chttp_i_126
+2023-11-26 11:12:12 - INFO - Successfully fetched movie title: 126. Dangal, and director: Nitesh Tiwari.
+2023-11-26 11:12:14 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0059578/?ref_=chttp_i_127
+2023-11-26 11:12:14 - INFO - Successfully fetched movie title: 127. For a Few Dollars More, and director: Sergio Leone.
+2023-11-26 11:12:16 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0372784/?ref_=chttp_i_128
+2023-11-26 11:12:16 - INFO - Successfully fetched movie title: 128. Batman Begins, and director: Christopher Nolan.
+2023-11-26 11:12:18 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1745960/?ref_=chttp_i_129
+2023-11-26 11:12:19 - INFO - Successfully fetched movie title: 129. Top Gun: Maverick, and director: Joseph Kosinski.
+2023-11-26 11:12:21 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0053291/?ref_=chttp_i_130
+2023-11-26 11:12:22 - INFO - Successfully fetched movie title: 130. Some Like It Hot, and director: Billy Wilder.
+2023-11-26 11:12:23 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0012349/?ref_=chttp_i_131
+2023-11-26 11:12:24 - INFO - Successfully fetched movie title: 131. The Kid, and director: Charles Chaplin.
+2023-11-26 11:12:26 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0993846/?ref_=chttp_i_132
+2023-11-26 11:12:26 - INFO - Successfully fetched movie title: 132. The Wolf of Wall Street, and director: Martin Scorsese.
+2023-11-26 11:12:30 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt10272386/?ref_=chttp_i_133
+2023-11-26 11:12:30 - INFO - Successfully fetched movie title: 133. The Father, and director: Florian Zeller.
+2023-11-26 11:12:32 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt6966692/?ref_=chttp_i_134
+2023-11-26 11:12:32 - INFO - Successfully fetched movie title: 134. Green Book, and director: Peter Farrelly.
+2023-11-26 11:12:34 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0042192/?ref_=chttp_i_135
+2023-11-26 11:12:35 - INFO - Successfully fetched movie title: 135. All About Eve, and director: Joseph L. Mankiewicz.
+2023-11-26 11:12:37 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0055031/?ref_=chttp_i_136
+2023-11-26 11:12:38 - INFO - Successfully fetched movie title: 136. Judgment at Nuremberg, and director: Stanley Kramer.
+2023-11-26 11:12:40 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0120382/?ref_=chttp_i_137
+2023-11-26 11:12:40 - INFO - Successfully fetched movie title: 137. The Truman Show, and director: Peter Weir.
+2023-11-26 11:12:42 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0469494/?ref_=chttp_i_138
+2023-11-26 11:12:42 - INFO - Successfully fetched movie title: 138. There Will Be Blood, and director: Paul Thomas Anderson.
+2023-11-26 11:12:44 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0112641/?ref_=chttp_i_139
+2023-11-26 11:12:44 - INFO - Successfully fetched movie title: 139. Casino, and director: Martin Scorsese.
+2023-11-26 11:12:46 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0089881/?ref_=chttp_i_140
+2023-11-26 11:12:47 - INFO - Successfully fetched movie title: 140. Ran, and director: Akira Kurosawa.
+2023-11-26 11:12:49 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1130884/?ref_=chttp_i_141
+2023-11-26 11:12:49 - INFO - Successfully fetched movie title: 141. Shutter Island, and director: Martin Scorsese.
+2023-11-26 11:12:51 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0457430/?ref_=chttp_i_142
+2023-11-26 11:12:51 - INFO - Successfully fetched movie title: 142. Pan's Labyrinth, and director: Guillermo del Toro.
+2023-11-26 11:12:53 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0107290/?ref_=chttp_i_143
+2023-11-26 11:12:53 - INFO - Successfully fetched movie title: 143. Jurassic Park, and director: Steven Spielberg.
+2023-11-26 11:12:55 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0167404/?ref_=chttp_i_144
+2023-11-26 11:12:55 - INFO - Successfully fetched movie title: 144. The Sixth Sense, and director: M. Night Shyamalan.
+2023-11-26 11:12:57 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0105695/?ref_=chttp_i_145
+2023-11-26 11:12:58 - INFO - Successfully fetched movie title: 145. Unforgiven, and director: Clint Eastwood.
+2023-11-26 11:13:01 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0268978/?ref_=chttp_i_146
+2023-11-26 11:13:01 - INFO - Successfully fetched movie title: 146. A Beautiful Mind, and director: Ron Howard.
+2023-11-26 11:13:03 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0477348/?ref_=chttp_i_147
+2023-11-26 11:13:03 - INFO - Successfully fetched movie title: 147. No Country for Old Men, and director: Ethan Coen.
+2023-11-26 11:13:05 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0040897/?ref_=chttp_i_148
+2023-11-26 11:13:05 - INFO - Successfully fetched movie title: 148. The Treasure of the Sierra Madre, and director: John Huston.
+2023-11-26 11:13:07 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0055630/?ref_=chttp_i_149
+2023-11-26 11:13:07 - INFO - Successfully fetched movie title: 149. Yojimbo, and director: Akira Kurosawa.
+2023-11-26 11:13:09 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0266697/?ref_=chttp_i_150
+2023-11-26 11:13:09 - INFO - Successfully fetched movie title: 150. Kill Bill: Vol. 1, and director: Quentin Tarantino.
+2023-11-26 11:13:10 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0084787/?ref_=chttp_i_151
+2023-11-26 11:13:10 - INFO - Successfully fetched movie title: 151. The Thing, and director: John Carpenter.
+2023-11-26 11:13:12 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0071853/?ref_=chttp_i_152
+2023-11-26 11:13:12 - INFO - Successfully fetched movie title: 152. Monty Python and the Holy Grail, and director: Terry Gilliam.
+2023-11-26 11:13:14 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0057115/?ref_=chttp_i_153
+2023-11-26 11:13:14 - INFO - Successfully fetched movie title: 153. The Great Escape, and director: John Sturges.
+2023-11-26 11:13:15 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0266543/?ref_=chttp_i_154
+2023-11-26 11:13:15 - INFO - Successfully fetched movie title: 154. Finding Nemo, and director: Andrew Stanton.
+2023-11-26 11:13:17 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0042876/?ref_=chttp_i_155
+2023-11-26 11:13:17 - INFO - Successfully fetched movie title: 155. Rashomon, and director: Akira Kurosawa.
+2023-11-26 11:13:18 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0080678/?ref_=chttp_i_156
+2023-11-26 11:13:18 - INFO - Successfully fetched movie title: 156. The Elephant Man, and director: David Lynch.
+2023-11-26 11:13:20 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0071315/?ref_=chttp_i_157
+2023-11-26 11:13:20 - INFO - Successfully fetched movie title: 157. Chinatown, and director: Roman Polanski.
+2023-11-26 11:13:21 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0347149/?ref_=chttp_i_158
+2023-11-26 11:13:22 - INFO - Successfully fetched movie title: 158. Howl's Moving Castle, and director: Hayao Miyazaki.
+2023-11-26 11:13:24 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0046912/?ref_=chttp_i_159
+2023-11-26 11:13:25 - INFO - Successfully fetched movie title: 159. Dial M for Murder, and director: Alfred Hitchcock.
+2023-11-26 11:13:27 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0031381/?ref_=chttp_i_160
+2023-11-26 11:13:27 - INFO - Successfully fetched movie title: 160. Gone with the Wind, and director: Victor Fleming.
+2023-11-26 11:13:29 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0434409/?ref_=chttp_i_161
+2023-11-26 11:13:29 - INFO - Successfully fetched movie title: 161. V for Vendetta, and director: James McTeigue.
+2023-11-26 11:13:31 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1392214/?ref_=chttp_i_162
+2023-11-26 11:13:31 - INFO - Successfully fetched movie title: 162. Prisoners, and director: Denis Villeneuve.
+2023-11-26 11:13:33 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0081398/?ref_=chttp_i_163
+2023-11-26 11:13:33 - INFO - Successfully fetched movie title: 163. Raging Bull, and director: Martin Scorsese.
+2023-11-26 11:13:35 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0120735/?ref_=chttp_i_164
+2023-11-26 11:13:35 - INFO - Successfully fetched movie title: 164. Lock, Stock and Two Smoking Barrels, and director: Guy Ritchie.
+2023-11-26 11:13:37 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1305806/?ref_=chttp_i_165
+2023-11-26 11:13:37 - INFO - Successfully fetched movie title: 165. The Secret in Their Eyes, and director: Juan José Campanella.
+2023-11-26 11:13:39 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt2096673/?ref_=chttp_i_166
+2023-11-26 11:13:39 - INFO - Successfully fetched movie title: 166. Inside Out, and director: Pete Docter.
+2023-11-26 11:13:41 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt10872600/?ref_=chttp_i_167
+2023-11-26 11:13:41 - INFO - Successfully fetched movie title: 167. Spider-Man: No Way Home, and director: Jon Watts.
+2023-11-26 11:13:42 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt5027774/?ref_=chttp_i_168
+2023-11-26 11:13:42 - INFO - Successfully fetched movie title: 168. Three Billboards Outside Ebbing, Missouri, and director: Martin McDonagh.
+2023-11-26 11:13:44 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0117951/?ref_=chttp_i_169
+2023-11-26 11:13:44 - INFO - Successfully fetched movie title: 169. Trainspotting, and director: Danny Boyle.
+2023-11-26 11:13:45 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0050212/?ref_=chttp_i_170
+2023-11-26 11:13:45 - INFO - Successfully fetched movie title: 170. The Bridge on the River Kwai, and director: David Lean.
+2023-11-26 11:13:48 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0116282/?ref_=chttp_i_171
+2023-11-26 11:13:48 - INFO - Successfully fetched movie title: 171. Fargo, and director: Joel Coen.
+2023-11-26 11:13:49 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1291584/?ref_=chttp_i_172
+2023-11-26 11:13:49 - INFO - Successfully fetched movie title: 172. Warrior, and director: Gavin O'Connor.
+2023-11-26 11:13:51 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0264464/?ref_=chttp_i_173
+2023-11-26 11:13:51 - INFO - Successfully fetched movie title: 173. Catch Me If You Can, and director: Steven Spielberg.
+2023-11-26 11:13:53 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1205489/?ref_=chttp_i_174
+2023-11-26 11:13:53 - INFO - Successfully fetched movie title: 174. Gran Torino, and director: Clint Eastwood.
+2023-11-26 11:13:54 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0096283/?ref_=chttp_i_175
+2023-11-26 11:13:54 - INFO - Successfully fetched movie title: 175. My Neighbor Totoro, and director: Hayao Miyazaki.
+2023-11-26 11:13:56 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0405159/?ref_=chttp_i_176
+2023-11-26 11:13:56 - INFO - Successfully fetched movie title: 176. Million Dollar Baby, and director: Clint Eastwood.
+2023-11-26 11:13:59 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt4729430/?ref_=chttp_i_177
+2023-11-26 11:13:59 - INFO - Successfully fetched movie title: 177. Klaus, and director: Sergio Pablos.
+2023-11-26 11:14:00 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1201607/?ref_=chttp_i_178
+2023-11-26 11:14:00 - INFO - Successfully fetched movie title: 178. Harry Potter and the Deathly Hallows: Part 2, and director: David Yates.
+2023-11-26 11:14:02 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0118849/?ref_=chttp_i_179
+2023-11-26 11:14:02 - INFO - Successfully fetched movie title: 179. Children of Heaven, and director: Majid Majidi.
+2023-11-26 11:14:04 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0083658/?ref_=chttp_i_180
+2023-11-26 11:14:04 - INFO - Successfully fetched movie title: 180. Blade Runner, and director: Ridley Scott.
+2023-11-26 11:14:06 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt2024544/?ref_=chttp_i_181
+2023-11-26 11:14:06 - INFO - Successfully fetched movie title: 181. 12 Years a Slave, and director: Steve McQueen.
+2023-11-26 11:14:07 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0112471/?ref_=chttp_i_182
+2023-11-26 11:14:07 - INFO - Successfully fetched movie title: 182. Before Sunrise, and director: Richard Linklater.
+2023-11-26 11:14:09 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt2278388/?ref_=chttp_i_183
+2023-11-26 11:14:09 - INFO - Successfully fetched movie title: 183. The Grand Budapest Hotel, and director: Wes Anderson.
+2023-11-26 11:14:11 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0052618/?ref_=chttp_i_184
+2023-11-26 11:14:11 - INFO - Successfully fetched movie title: 184. Ben-Hur, and director: William Wyler.
+2023-11-26 11:14:13 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0015864/?ref_=chttp_i_185
+2023-11-26 11:14:13 - INFO - Successfully fetched movie title: 185. The Gold Rush, and director: Charles Chaplin.
+2023-11-26 11:14:15 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0072684/?ref_=chttp_i_186
+2023-11-26 11:14:15 - INFO - Successfully fetched movie title: 186. Barry Lyndon, and director: Stanley Kubrick.
+2023-11-26 11:14:16 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt2267998/?ref_=chttp_i_187
+2023-11-26 11:14:16 - INFO - Successfully fetched movie title: 187. Gone Girl, and director: David Fincher.
+2023-11-26 11:14:18 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt2119532/?ref_=chttp_i_188
+2023-11-26 11:14:18 - INFO - Successfully fetched movie title: 188. Hacksaw Ridge, and director: Mel Gibson.
+2023-11-26 11:14:19 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0107207/?ref_=chttp_i_189
+2023-11-26 11:14:20 - INFO - Successfully fetched movie title: 189. In the Name of the Father, and director: Jim Sheridan.
+2023-11-26 11:14:21 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0047296/?ref_=chttp_i_190
+2023-11-26 11:14:21 - INFO - Successfully fetched movie title: 190. On the Waterfront, and director: Elia Kazan.
+2023-11-26 11:14:23 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0353969/?ref_=chttp_i_191
+2023-11-26 11:14:23 - INFO - Successfully fetched movie title: 191. Memories of Murder, and director: Bong Joon Ho.
+2023-11-26 11:14:25 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0017925/?ref_=chttp_i_192
+2023-11-26 11:14:25 - INFO - Successfully fetched movie title: 192. The General, and director: Clyde Bruckman.
+2023-11-26 11:14:27 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0077416/?ref_=chttp_i_193
+2023-11-26 11:14:27 - INFO - Successfully fetched movie title: 193. The Deer Hunter, and director: Michael Cimino.
+2023-11-26 11:14:28 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0050986/?ref_=chttp_i_194
+2023-11-26 11:14:28 - INFO - Successfully fetched movie title: 194. Wild Strawberries, and director: Ingmar Bergman.
+2023-11-26 11:14:30 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt3011894/?ref_=chttp_i_195
+2023-11-26 11:14:30 - INFO - Successfully fetched movie title: 195. Wild Tales, and director: Damián Szifron.
+2023-11-26 11:14:32 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0041959/?ref_=chttp_i_196
+2023-11-26 11:14:32 - INFO - Successfully fetched movie title: 196. The Third Man, and director: Carol Reed.
+2023-11-26 11:14:34 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0097165/?ref_=chttp_i_197
+2023-11-26 11:14:34 - INFO - Successfully fetched movie title: 197. Dead Poets Society, and director: Peter Weir.
+2023-11-26 11:14:35 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0046268/?ref_=chttp_i_198
+2023-11-26 11:14:35 - INFO - Successfully fetched movie title: 198. The Wages of Fear, and director: Henri-Georges Clouzot.
+2023-11-26 11:14:39 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0015324/?ref_=chttp_i_199
+2023-11-26 11:14:39 - INFO - Successfully fetched movie title: 199. Sherlock Jr., and director: Buster Keaton.
+2023-11-26 11:14:40 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1392190/?ref_=chttp_i_200
+2023-11-26 11:14:40 - INFO - Successfully fetched movie title: 200. Mad Max: Fury Road, and director: George Miller.
+2023-11-26 11:14:42 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0198781/?ref_=chttp_i_201
+2023-11-26 11:14:42 - INFO - Successfully fetched movie title: 201. Monsters, Inc., and director: Pete Docter.
+2023-11-26 11:14:44 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0031679/?ref_=chttp_i_202
+2023-11-26 11:14:44 - INFO - Successfully fetched movie title: 202. Mr. Smith Goes to Washington, and director: Frank Capra.
+2023-11-26 11:14:46 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0073195/?ref_=chttp_i_203
+2023-11-26 11:14:46 - INFO - Successfully fetched movie title: 203. Jaws, and director: Steven Spielberg.
+2023-11-26 11:14:47 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0892769/?ref_=chttp_i_204
+2023-11-26 11:14:48 - INFO - Successfully fetched movie title: 204. How to Train Your Dragon, and director: Dean DeBlois.
+2023-11-26 11:14:49 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0978762/?ref_=chttp_i_205
+2023-11-26 11:14:50 - INFO - Successfully fetched movie title: 205. Mary and Max, and director: Adam Elliot.
+2023-11-26 11:14:51 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1950186/?ref_=chttp_i_206
+2023-11-26 11:14:51 - INFO - Successfully fetched movie title: 206. Ford v Ferrari, and director: James Mangold.
+2023-11-26 11:14:53 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0050976/?ref_=chttp_i_207
+2023-11-26 11:14:53 - INFO - Successfully fetched movie title: 207. The Seventh Seal, and director: Ingmar Bergman.
+2023-11-26 11:14:54 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt3170832/?ref_=chttp_i_208
+2023-11-26 11:14:54 - INFO - Successfully fetched movie title: 208. Room, and director: Lenny Abrahamson.
+2023-11-26 11:14:56 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0118715/?ref_=chttp_i_209
+2023-11-26 11:14:56 - INFO - Successfully fetched movie title: 209. The Big Lebowski, and director: Joel Coen.
+2023-11-26 11:14:57 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0382932/?ref_=chttp_i_210
+2023-11-26 11:14:58 - INFO - Successfully fetched movie title: 210. Ratatouille, and director: Brad Bird.
+2023-11-26 11:15:01 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0046438/?ref_=chttp_i_211
+2023-11-26 11:15:01 - INFO - Successfully fetched movie title: 211. Tokyo Story, and director: Yasujirô Ozu.
+2023-11-26 11:15:03 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0075148/?ref_=chttp_i_212
+2023-11-26 11:15:03 - INFO - Successfully fetched movie title: 212. Rocky, and director: John G. Avildsen.
+2023-11-26 11:15:05 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0395169/?ref_=chttp_i_213
+2023-11-26 11:15:05 - INFO - Successfully fetched movie title: 213. Hotel Rwanda, and director: Terry George.
+2023-11-26 11:15:07 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt3315342/?ref_=chttp_i_214
+2023-11-26 11:15:07 - INFO - Successfully fetched movie title: 214. Logan, and director: James Mangold.
+2023-11-26 11:15:08 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1895587/?ref_=chttp_i_215
+2023-11-26 11:15:08 - INFO - Successfully fetched movie title: 215. Spotlight, and director: Tom McCarthy.
+2023-11-26 11:15:10 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0091763/?ref_=chttp_i_216
+2023-11-26 11:15:10 - INFO - Successfully fetched movie title: 216. Platoon, and director: Oliver Stone.
+2023-11-26 11:15:12 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0019254/?ref_=chttp_i_217
+2023-11-26 11:15:12 - INFO - Successfully fetched movie title: 217. The Passion of Joan of Arc, and director: Carl Theodor Dreyer.
+2023-11-26 11:15:13 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0088247/?ref_=chttp_i_218
+2023-11-26 11:15:13 - INFO - Successfully fetched movie title: 218. The Terminator, and director: James Cameron.
+2023-11-26 11:15:15 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt15097216/?ref_=chttp_i_219
+2023-11-26 11:15:15 - INFO - Successfully fetched movie title: 219. Jai Bhim, and director: T.J. Gnanavel.
+2023-11-26 11:15:16 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0381681/?ref_=chttp_i_220
+2023-11-26 11:15:17 - INFO - Successfully fetched movie title: 220. Before Sunset, and director: Richard Linklater.
+2023-11-26 11:15:18 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1979320/?ref_=chttp_i_221
+2023-11-26 11:15:18 - INFO - Successfully fetched movie title: 221. Rush, and director: Ron Howard.
+2023-11-26 11:15:20 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0074958/?ref_=chttp_i_222
+2023-11-26 11:15:20 - INFO - Successfully fetched movie title: 222. Network, and director: Sidney Lumet.
+2023-11-26 11:15:21 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0070047/?ref_=chttp_i_223
+2023-11-26 11:15:21 - INFO - Successfully fetched movie title: 223. The Exorcist, and director: William Friedkin.
+2023-11-26 11:15:23 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0036868/?ref_=chttp_i_224
+2023-11-26 11:15:23 - INFO - Successfully fetched movie title: 224. The Best Years of Our Lives, and director: William Wyler.
+2023-11-26 11:15:24 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0092005/?ref_=chttp_i_225
+2023-11-26 11:15:25 - INFO - Successfully fetched movie title: 225. Stand by Me, and director: Rob Reiner.
+2023-11-26 11:15:27 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0113247/?ref_=chttp_i_226
+2023-11-26 11:15:27 - INFO - Successfully fetched movie title: 226. La haine, and director: Mathieu Kassovitz.
+2023-11-26 11:15:29 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0032138/?ref_=chttp_i_227
+2023-11-26 11:15:29 - INFO - Successfully fetched movie title: 227. The Wizard of Oz, and director: Victor Fleming.
+2023-11-26 11:15:30 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0325980/?ref_=chttp_i_228
+2023-11-26 11:15:30 - INFO - Successfully fetched movie title: 228. Pirates of the Caribbean: The Curse of the Black Pearl, and director: Gore Verbinski.
+2023-11-26 11:15:32 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0317705/?ref_=chttp_i_229
+2023-11-26 11:15:32 - INFO - Successfully fetched movie title: 229. The Incredibles, and director: Brad Bird.
+2023-11-26 11:15:34 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0758758/?ref_=chttp_i_230
+2023-11-26 11:15:34 - INFO - Successfully fetched movie title: 230. Into the Wild, and director: Sean Penn.
+2023-11-26 11:15:35 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1028532/?ref_=chttp_i_231
+2023-11-26 11:15:35 - INFO - Successfully fetched movie title: 231. Hachi: A Dog's Tale, and director: Lasse Hallström.
+2023-11-26 11:15:37 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0476735/?ref_=chttp_i_232
+2023-11-26 11:15:37 - INFO - Successfully fetched movie title: 232. My Father and My Son, and director: Çagan Irmak.
+2023-11-26 11:15:39 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0035446/?ref_=chttp_i_233
+2023-11-26 11:15:39 - INFO - Successfully fetched movie title: 233. To Be or Not to Be, and director: Ernst Lubitsch.
+2023-11-26 11:15:40 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt4016934/?ref_=chttp_i_234
+2023-11-26 11:15:41 - INFO - Successfully fetched movie title: 234. The Handmaiden, and director: Park Chan-wook.
+2023-11-26 11:15:42 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0107048/?ref_=chttp_i_235
+2023-11-26 11:15:42 - INFO - Successfully fetched movie title: 235. Groundhog Day, and director: Harold Ramis.
+2023-11-26 11:15:43 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0058946/?ref_=chttp_i_236
+2023-11-26 11:15:44 - INFO - Successfully fetched movie title: 236. The Battle of Algiers, and director: Gillo Pontecorvo.
+2023-11-26 11:15:46 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0032551/?ref_=chttp_i_237
+2023-11-26 11:15:46 - INFO - Successfully fetched movie title: 237. The Grapes of Wrath, and director: John Ford.
+2023-11-26 11:15:47 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0245712/?ref_=chttp_i_238
+2023-11-26 11:15:48 - INFO - Successfully fetched movie title: 238. Amores Perros, and director: Alejandro G. Iñárritu.
+2023-11-26 11:15:49 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0059742/?ref_=chttp_i_239
+2023-11-26 11:15:49 - INFO - Successfully fetched movie title: 239. The Sound of Music, and director: Robert Wise.
+2023-11-26 11:15:51 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0032976/?ref_=chttp_i_240
+2023-11-26 11:15:51 - INFO - Successfully fetched movie title: 240. Rebecca, and director: Alfred Hitchcock.
+2023-11-26 11:15:53 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0061512/?ref_=chttp_i_241
+2023-11-26 11:15:53 - INFO - Successfully fetched movie title: 241. Cool Hand Luke, and director: Stuart Rosenberg.
+2023-11-26 11:15:55 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0129167/?ref_=chttp_i_242
+2023-11-26 11:15:55 - INFO - Successfully fetched movie title: 242. The Iron Giant, and director: Brad Bird.
+2023-11-26 11:15:56 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0048473/?ref_=chttp_i_243
+2023-11-26 11:15:56 - INFO - Successfully fetched movie title: 243. Pather Panchali, and director: Satyajit Ray.
+2023-11-26 11:15:58 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0025316/?ref_=chttp_i_244
+2023-11-26 11:15:59 - INFO - Successfully fetched movie title: 244. It Happened One Night, and director: Frank Capra.
+2023-11-26 11:16:00 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt1454029/?ref_=chttp_i_245
+2023-11-26 11:16:00 - INFO - Successfully fetched movie title: 245. The Help, and director: Tate Taylor.
+2023-11-26 11:16:02 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0053198/?ref_=chttp_i_246
+2023-11-26 11:16:02 - INFO - Successfully fetched movie title: 246. The 400 Blows, and director: François Truffaut.
+2023-11-26 11:16:03 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0103639/?ref_=chttp_i_247
+2023-11-26 11:16:04 - INFO - Successfully fetched movie title: 247. Aladdin, and director: Ron Clements.
+2023-11-26 11:16:05 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0099348/?ref_=chttp_i_248
+2023-11-26 11:16:05 - INFO - Successfully fetched movie title: 248. Dances with Wolves, and director: Kevin Costner.
+2023-11-26 11:16:07 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt4430212/?ref_=chttp_i_249
+2023-11-26 11:16:07 - INFO - Successfully fetched movie title: 249. Drishyam, and director: Nishikant Kamat.
+2023-11-26 11:16:08 - INFO - Successfully fetched URL: https://www.imdb.com/title/tt0079470/?ref_=chttp_i_250
+2023-11-26 11:16:08 - INFO - Successfully fetched movie title: 250. Life of Brian, and director: Terry Jones.
+2023-11-26 11:16:08 - INFO - Using requests library, top 250 movies and their directors were extracted from IMBD in 485.5557882785797 seconds.
+2023-11-26 11:16:10 - INFO - Successfully fetched URL: https://www.imdb.com/chart/top/
+2023-11-26 11:16:11 - INFO - Found movie title tags.
+2023-11-26 11:16:16 - INFO - Sending batch requests for movies 1 to 10
+2023-11-26 11:16:17 - INFO - Successfully fetched movie title 1. The Shawshank Redemption and director Frank Darabont.
+2023-11-26 11:16:17 - INFO - Successfully fetched movie title 2. The Godfather and director Francis Ford Coppola.
+2023-11-26 11:16:17 - INFO - Successfully fetched movie title 3. The Dark Knight and director Christopher Nolan.
+2023-11-26 11:16:17 - INFO - Successfully fetched movie title 4. The Godfather Part II and director Francis Ford Coppola.
+2023-11-26 11:16:17 - INFO - Successfully fetched movie title 5. 12 Angry Men and director Sidney Lumet.
+2023-11-26 11:16:17 - INFO - Successfully fetched movie title 6. Schindler's List and director Steven Spielberg.
+2023-11-26 11:16:17 - INFO - Successfully fetched movie title 7. The Lord of the Rings: The Return of the King and director Peter Jackson.
+2023-11-26 11:16:17 - INFO - Successfully fetched movie title 8. Pulp Fiction and director Quentin Tarantino.
+2023-11-26 11:16:18 - INFO - Successfully fetched movie title 9. The Lord of the Rings: The Fellowship of the Ring and director Peter Jackson.
+2023-11-26 11:16:18 - INFO - Successfully fetched movie title 10. The Good, the Bad and the Ugly and director Sergio Leone.
+2023-11-26 11:16:23 - INFO - Sending batch requests for movies 11 to 20
+2023-11-26 11:16:24 - INFO - Successfully fetched movie title 11. Forrest Gump and director Robert Zemeckis.
+2023-11-26 11:16:24 - INFO - Successfully fetched movie title 12. Fight Club and director David Fincher.
+2023-11-26 11:16:24 - INFO - Successfully fetched movie title 13. The Lord of the Rings: The Two Towers and director Peter Jackson.
+2023-11-26 11:16:24 - INFO - Successfully fetched movie title 14. Inception and director Christopher Nolan.
+2023-11-26 11:16:24 - INFO - Successfully fetched movie title 15. Star Wars: Episode V - The Empire Strikes Back and director Irvin Kershner.
+2023-11-26 11:16:24 - INFO - Successfully fetched movie title 16. The Matrix and director Lana Wachowski.
+2023-11-26 11:16:24 - INFO - Successfully fetched movie title 17. Goodfellas and director Martin Scorsese.
+2023-11-26 11:16:25 - INFO - Successfully fetched movie title 18. One Flew Over the Cuckoo's Nest and director Milos Forman.
+2023-11-26 11:16:25 - INFO - Successfully fetched movie title 19. Se7en and director David Fincher.
+2023-11-26 11:16:25 - INFO - Successfully fetched movie title 20. It's a Wonderful Life and director Frank Capra.
+2023-11-26 11:16:31 - INFO - Sending batch requests for movies 21 to 30
+2023-11-26 11:16:31 - INFO - Successfully fetched movie title 21. Seven Samurai and director Akira Kurosawa.
+2023-11-26 11:16:31 - INFO - Successfully fetched movie title 22. Interstellar and director Christopher Nolan.
+2023-11-26 11:16:31 - INFO - Successfully fetched movie title 23. The Silence of the Lambs and director Jonathan Demme.
+2023-11-26 11:16:32 - INFO - Successfully fetched movie title 24. Saving Private Ryan and director Steven Spielberg.
+2023-11-26 11:16:32 - INFO - Successfully fetched movie title 25. City of God and director Fernando Meirelles.
+2023-11-26 11:16:32 - INFO - Successfully fetched movie title 26. Life Is Beautiful and director Roberto Benigni.
+2023-11-26 11:16:32 - INFO - Successfully fetched movie title 27. Spider-Man: Across the Spider-Verse and director Joaquim Dos Santos.
+2023-11-26 11:16:32 - INFO - Successfully fetched movie title 28. The Green Mile and director Frank Darabont.
+2023-11-26 11:16:32 - INFO - Successfully fetched movie title 29. Star Wars: Episode IV - A New Hope and director George Lucas.
+2023-11-26 11:16:32 - INFO - Successfully fetched movie title 30. Terminator 2: Judgment Day and director James Cameron.
+2023-11-26 11:16:39 - INFO - Sending batch requests for movies 31 to 40
+2023-11-26 11:16:39 - INFO - Successfully fetched movie title 31. Back to the Future and director Robert Zemeckis.
+2023-11-26 11:16:39 - INFO - Successfully fetched movie title 32. Spirited Away and director Hayao Miyazaki.
+2023-11-26 11:16:39 - INFO - Successfully fetched movie title 33. The Pianist and director Roman Polanski.
+2023-11-26 11:16:40 - INFO - Successfully fetched movie title 34. Psycho and director Alfred Hitchcock.
+2023-11-26 11:16:40 - INFO - Successfully fetched movie title 35. Parasite and director Bong Joon Ho.
+2023-11-26 11:16:40 - INFO - Successfully fetched movie title 36. Gladiator and director Ridley Scott.
+2023-11-26 11:16:41 - INFO - Successfully fetched movie title 37. The Lion King and director Roger Allers.
+2023-11-26 11:16:41 - INFO - Successfully fetched movie title 38. Léon: The Professional and director Luc Besson.
+2023-11-26 11:16:41 - INFO - Successfully fetched movie title 39. American History X and director Tony Kaye.
+2023-11-26 11:16:42 - INFO - Successfully fetched movie title 40. The Departed and director Martin Scorsese.
+2023-11-26 11:16:53 - INFO - Sending batch requests for movies 41 to 50
+2023-11-26 11:16:54 - INFO - Successfully fetched movie title 41. Whiplash and director Damien Chazelle.
+2023-11-26 11:16:54 - INFO - Successfully fetched movie title 42. The Prestige and director Christopher Nolan.
+2023-11-26 11:16:55 - INFO - Successfully fetched movie title 43. The Usual Suspects and director Bryan Singer.
+2023-11-26 11:16:55 - INFO - Successfully fetched movie title 44. Grave of the Fireflies and director Isao Takahata.
+2023-11-26 11:16:55 - INFO - Successfully fetched movie title 45. Harakiri and director Masaki Kobayashi.
+2023-11-26 11:16:55 - INFO - Successfully fetched movie title 46. Casablanca and director Michael Curtiz.
+2023-11-26 11:16:56 - INFO - Successfully fetched movie title 47. The Intouchables and director Olivier Nakache.
+2023-11-26 11:16:56 - INFO - Successfully fetched movie title 48. Modern Times and director Charles Chaplin.
+2023-11-26 11:16:56 - INFO - Successfully fetched movie title 49. Cinema Paradiso and director Giuseppe Tornatore.
+2023-11-26 11:16:57 - INFO - Successfully fetched movie title 50. Once Upon a Time in the West and director Sergio Leone.
+2023-11-26 11:17:06 - INFO - Sending batch requests for movies 51 to 60
+2023-11-26 11:17:07 - INFO - Successfully fetched movie title 51. Rear Window and director Alfred Hitchcock.
+2023-11-26 11:17:07 - INFO - Successfully fetched movie title 52. Alien and director Ridley Scott.
+2023-11-26 11:17:07 - INFO - Successfully fetched movie title 53. City Lights and director Charles Chaplin.
+2023-11-26 11:17:08 - INFO - Successfully fetched movie title 54. Apocalypse Now and director Francis Ford Coppola.
+2023-11-26 11:17:08 - INFO - Successfully fetched movie title 55. Django Unchained and director Quentin Tarantino.
+2023-11-26 11:17:08 - INFO - Successfully fetched movie title 56. Memento and director Christopher Nolan.
+2023-11-26 11:17:08 - INFO - Successfully fetched movie title 57. Raiders of the Lost Ark and director Steven Spielberg.
+2023-11-26 11:17:09 - INFO - Successfully fetched movie title 58. WALL·E and director Andrew Stanton.
+2023-11-26 11:17:09 - INFO - Successfully fetched movie title 59. Oppenheimer and director Christopher Nolan.
+2023-11-26 11:17:09 - INFO - Successfully fetched movie title 60. The Lives of Others and director Florian Henckel von Donnersmarck.
+2023-11-26 11:17:20 - INFO - Sending batch requests for movies 61 to 70
+2023-11-26 11:17:20 - INFO - Successfully fetched movie title 61. Sunset Blvd. and director Billy Wilder.
+2023-11-26 11:17:21 - INFO - Successfully fetched movie title 62. Paths of Glory and director Stanley Kubrick.
+2023-11-26 11:17:21 - INFO - Successfully fetched movie title 63. Avengers: Infinity War and director Anthony Russo.
+2023-11-26 11:17:21 - INFO - Successfully fetched movie title 64. The Shining and director Stanley Kubrick.
+2023-11-26 11:17:22 - INFO - Successfully fetched movie title 65. The Great Dictator and director Charles Chaplin.
+2023-11-26 11:17:22 - INFO - Successfully fetched movie title 66. Witness for the Prosecution and director Billy Wilder.
+2023-11-26 11:17:22 - INFO - Successfully fetched movie title 67. Spider-Man: Into the Spider-Verse and director Bob Persichetti.
+2023-11-26 11:17:23 - INFO - Successfully fetched movie title 68. Aliens and director James Cameron.
+2023-11-26 11:17:23 - INFO - Successfully fetched movie title 69. Inglourious Basterds and director Quentin Tarantino.
+2023-11-26 11:17:23 - INFO - Successfully fetched movie title 70. The Dark Knight Rises and director Christopher Nolan.
+2023-11-26 11:17:34 - INFO - Sending batch requests for movies 71 to 80
+2023-11-26 11:17:35 - INFO - Successfully fetched movie title 71. American Beauty and director Sam Mendes.
+2023-11-26 11:17:35 - INFO - Successfully fetched movie title 72. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb and director Stanley Kubrick.
+2023-11-26 11:17:35 - INFO - Successfully fetched movie title 73. Oldboy and director Park Chan-wook.
+2023-11-26 11:17:35 - INFO - Successfully fetched movie title 74. Coco and director Lee Unkrich.
+2023-11-26 11:17:35 - INFO - Successfully fetched movie title 75. Amadeus and director Milos Forman.
+2023-11-26 11:17:36 - INFO - Successfully fetched movie title 76. Toy Story and director John Lasseter.
+2023-11-26 11:17:36 - INFO - Successfully fetched movie title 77. Das Boot and director Wolfgang Petersen.
+2023-11-26 11:17:36 - INFO - Successfully fetched movie title 78. Braveheart and director Mel Gibson.
+2023-11-26 11:17:37 - INFO - Successfully fetched movie title 79. Avengers: Endgame and director Anthony Russo.
+2023-11-26 11:17:37 - INFO - Successfully fetched movie title 80. Joker and director Todd Phillips.
+2023-11-26 11:17:44 - INFO - Sending batch requests for movies 81 to 90
+2023-11-26 11:17:44 - INFO - Successfully fetched movie title 81. Princess Mononoke and director Hayao Miyazaki.
+2023-11-26 11:17:44 - INFO - Successfully fetched movie title 82. Good Will Hunting and director Gus Van Sant.
+2023-11-26 11:17:44 - INFO - Successfully fetched movie title 83. Your Name. and director Makoto Shinkai.
+2023-11-26 11:17:44 - INFO - Successfully fetched movie title 84. Once Upon a Time in America and director Sergio Leone.
+2023-11-26 11:17:45 - INFO - Successfully fetched movie title 85. High and Low and director Akira Kurosawa.
+2023-11-26 11:17:45 - INFO - Successfully fetched movie title 86. 3 Idiots and director Rajkumar Hirani.
+2023-11-26 11:17:45 - INFO - Successfully fetched movie title 87. Singin' in the Rain and director Stanley Donen.
+2023-11-26 11:17:45 - INFO - Successfully fetched movie title 88. Capernaum and director Nadine Labaki.
+2023-11-26 11:17:45 - INFO - Successfully fetched movie title 89. Requiem for a Dream and director Darren Aronofsky.
+2023-11-26 11:17:45 - INFO - Successfully fetched movie title 90. Come and See and director Elem Klimov.
+2023-11-26 11:17:51 - INFO - Sending batch requests for movies 91 to 100
+2023-11-26 11:17:51 - INFO - Successfully fetched movie title 91. Toy Story 3 and director Lee Unkrich.
+2023-11-26 11:17:51 - INFO - Successfully fetched movie title 92. Star Wars: Episode VI - Return of the Jedi and director Richard Marquand.
+2023-11-26 11:17:51 - INFO - Successfully fetched movie title 93. Eternal Sunshine of the Spotless Mind and director Michel Gondry.
+2023-11-26 11:17:51 - INFO - Successfully fetched movie title 94. 2001: A Space Odyssey and director Stanley Kubrick.
+2023-11-26 11:17:52 - INFO - Successfully fetched movie title 95. The Hunt and director Thomas Vinterberg.
+2023-11-26 11:17:52 - INFO - Successfully fetched movie title 96. Reservoir Dogs and director Quentin Tarantino.
+2023-11-26 11:17:52 - INFO - Successfully fetched movie title 97. Ikiru and director Akira Kurosawa.
+2023-11-26 11:17:52 - INFO - Successfully fetched movie title 98. Lawrence of Arabia and director David Lean.
+2023-11-26 11:17:52 - INFO - Successfully fetched movie title 99. The Apartment and director Billy Wilder.
+2023-11-26 11:17:52 - INFO - Successfully fetched movie title 100. Citizen Kane and director Orson Welles.
+2023-11-26 11:17:58 - INFO - Sending batch requests for movies 101 to 110
+2023-11-26 11:17:58 - INFO - Successfully fetched movie title 101. M and director Fritz Lang.
+2023-11-26 11:17:58 - INFO - Successfully fetched movie title 102. North by Northwest and director Alfred Hitchcock.
+2023-11-26 11:17:58 - INFO - Successfully fetched movie title 103. Vertigo and director Alfred Hitchcock.
+2023-11-26 11:17:59 - INFO - Successfully fetched movie title 104. Double Indemnity and director Billy Wilder.
+2023-11-26 11:17:59 - INFO - Successfully fetched movie title 105. Amélie and director Jean-Pierre Jeunet.
+2023-11-26 11:17:59 - INFO - Successfully fetched movie title 106. Scarface and director Brian De Palma.
+2023-11-26 11:17:59 - INFO - Successfully fetched movie title 107. Full Metal Jacket and director Stanley Kubrick.
+2023-11-26 11:17:59 - INFO - Successfully fetched movie title 108. A Clockwork Orange and director Stanley Kubrick.
+2023-11-26 11:17:59 - INFO - Successfully fetched movie title 109. Incendies and director Denis Villeneuve.
+2023-11-26 11:17:59 - INFO - Successfully fetched movie title 110. Heat and director Michael Mann.
+2023-11-26 11:18:05 - INFO - Sending batch requests for movies 111 to 120
+2023-11-26 11:18:06 - INFO - Successfully fetched movie title 111. Up and director Pete Docter.
+2023-11-26 11:18:06 - INFO - Successfully fetched movie title 112. To Kill a Mockingbird and director Robert Mulligan.
+2023-11-26 11:18:06 - INFO - Successfully fetched movie title 113. Hamilton and director Thomas Kail.
+2023-11-26 11:18:06 - INFO - Successfully fetched movie title 114. The Sting and director George Roy Hill.
+2023-11-26 11:18:06 - INFO - Successfully fetched movie title 115. A Separation and director Asghar Farhadi.
+2023-11-26 11:18:06 - INFO - Successfully fetched movie title 116. Indiana Jones and the Last Crusade and director Steven Spielberg.
+2023-11-26 11:18:06 - INFO - Successfully fetched movie title 117. Metropolis and director Fritz Lang.
+2023-11-26 11:18:07 - INFO - Successfully fetched movie title 118. Die Hard and director John McTiernan.
+2023-11-26 11:18:07 - INFO - Successfully fetched movie title 119. Like Stars on Earth and director Aamir Khan.
+2023-11-26 11:18:07 - INFO - Successfully fetched movie title 120. Snatch and director Guy Ritchie.
+2023-11-26 11:18:15 - INFO - Sending batch requests for movies 121 to 130
+2023-11-26 11:18:15 - INFO - Successfully fetched movie title 121. Bicycle Thieves and director Vittorio De Sica.
+2023-11-26 11:18:16 - INFO - Successfully fetched movie title 122. L.A. Confidential and director Curtis Hanson.
+2023-11-26 11:18:16 - INFO - Successfully fetched movie title 123. Taxi Driver and director Martin Scorsese.
+2023-11-26 11:18:16 - INFO - Successfully fetched movie title 124. 1917 and director Sam Mendes.
+2023-11-26 11:18:16 - INFO - Successfully fetched movie title 125. Downfall and director Oliver Hirschbiegel.
+2023-11-26 11:18:17 - INFO - Successfully fetched movie title 126. Dangal and director Nitesh Tiwari.
+2023-11-26 11:18:17 - INFO - Successfully fetched movie title 127. For a Few Dollars More and director Sergio Leone.
+2023-11-26 11:18:17 - INFO - Successfully fetched movie title 128. Batman Begins and director Christopher Nolan.
+2023-11-26 11:18:17 - INFO - Successfully fetched movie title 129. Top Gun: Maverick and director Joseph Kosinski.
+2023-11-26 11:18:18 - INFO - Successfully fetched movie title 130. Some Like It Hot and director Billy Wilder.
+2023-11-26 11:18:29 - INFO - Sending batch requests for movies 131 to 140
+2023-11-26 11:18:29 - INFO - Successfully fetched movie title 131. The Kid and director Charles Chaplin.
+2023-11-26 11:18:29 - INFO - Successfully fetched movie title 132. The Wolf of Wall Street and director Martin Scorsese.
+2023-11-26 11:18:30 - INFO - Successfully fetched movie title 133. The Father and director Florian Zeller.
+2023-11-26 11:18:30 - INFO - Successfully fetched movie title 134. Green Book and director Peter Farrelly.
+2023-11-26 11:18:30 - INFO - Successfully fetched movie title 135. All About Eve and director Joseph L. Mankiewicz.
+2023-11-26 11:18:31 - INFO - Successfully fetched movie title 136. Judgment at Nuremberg and director Stanley Kramer.
+2023-11-26 11:18:31 - INFO - Successfully fetched movie title 137. The Truman Show and director Peter Weir.
+2023-11-26 11:18:31 - INFO - Successfully fetched movie title 138. There Will Be Blood and director Paul Thomas Anderson.
+2023-11-26 11:18:31 - INFO - Successfully fetched movie title 139. Casino and director Martin Scorsese.
+2023-11-26 11:18:32 - INFO - Successfully fetched movie title 140. Ran and director Akira Kurosawa.
+2023-11-26 11:18:40 - INFO - Sending batch requests for movies 141 to 150
+2023-11-26 11:18:41 - INFO - Successfully fetched movie title 141. Shutter Island and director Martin Scorsese.
+2023-11-26 11:18:41 - INFO - Successfully fetched movie title 142. Pan's Labyrinth and director Guillermo del Toro.
+2023-11-26 11:18:41 - INFO - Successfully fetched movie title 143. Jurassic Park and director Steven Spielberg.
+2023-11-26 11:18:41 - INFO - Successfully fetched movie title 144. The Sixth Sense and director M. Night Shyamalan.
+2023-11-26 11:18:41 - INFO - Successfully fetched movie title 145. Unforgiven and director Clint Eastwood.
+2023-11-26 11:18:41 - INFO - Successfully fetched movie title 146. A Beautiful Mind and director Ron Howard.
+2023-11-26 11:18:41 - INFO - Successfully fetched movie title 147. No Country for Old Men and director Ethan Coen.
+2023-11-26 11:18:41 - INFO - Successfully fetched movie title 148. The Treasure of the Sierra Madre and director John Huston.
+2023-11-26 11:18:42 - INFO - Successfully fetched movie title 149. Yojimbo and director Akira Kurosawa.
+2023-11-26 11:18:42 - INFO - Successfully fetched movie title 150. Kill Bill: Vol. 1 and director Quentin Tarantino.
+2023-11-26 11:18:48 - INFO - Sending batch requests for movies 151 to 160
+2023-11-26 11:18:48 - INFO - Successfully fetched movie title 151. The Thing and director John Carpenter.
+2023-11-26 11:18:48 - INFO - Successfully fetched movie title 152. Monty Python and the Holy Grail and director Terry Gilliam.
+2023-11-26 11:18:48 - INFO - Successfully fetched movie title 153. The Great Escape and director John Sturges.
+2023-11-26 11:18:48 - INFO - Successfully fetched movie title 154. Finding Nemo and director Andrew Stanton.
+2023-11-26 11:18:49 - INFO - Successfully fetched movie title 155. Rashomon and director Akira Kurosawa.
+2023-11-26 11:18:49 - INFO - Successfully fetched movie title 156. The Elephant Man and director David Lynch.
+2023-11-26 11:18:49 - INFO - Successfully fetched movie title 157. Chinatown and director Roman Polanski.
+2023-11-26 11:18:49 - INFO - Successfully fetched movie title 158. Howl's Moving Castle and director Hayao Miyazaki.
+2023-11-26 11:18:49 - INFO - Successfully fetched movie title 159. Dial M for Murder and director Alfred Hitchcock.
+2023-11-26 11:18:49 - INFO - Successfully fetched movie title 160. Gone with the Wind and director Victor Fleming.
+2023-11-26 11:18:56 - INFO - Sending batch requests for movies 161 to 170
+2023-11-26 11:18:56 - INFO - Successfully fetched movie title 161. V for Vendetta and director James McTeigue.
+2023-11-26 11:18:56 - INFO - Successfully fetched movie title 162. Prisoners and director Denis Villeneuve.
+2023-11-26 11:18:56 - INFO - Successfully fetched movie title 163. Raging Bull and director Martin Scorsese.
+2023-11-26 11:18:56 - INFO - Successfully fetched movie title 164. Lock, Stock and Two Smoking Barrels and director Guy Ritchie.
+2023-11-26 11:18:56 - INFO - Successfully fetched movie title 165. The Secret in Their Eyes and director Juan José Campanella.
+2023-11-26 11:18:57 - INFO - Successfully fetched movie title 166. Inside Out and director Pete Docter.
+2023-11-26 11:18:57 - INFO - Successfully fetched movie title 167. Spider-Man: No Way Home and director Jon Watts.
+2023-11-26 11:18:57 - INFO - Successfully fetched movie title 168. Three Billboards Outside Ebbing, Missouri and director Martin McDonagh.
+2023-11-26 11:18:57 - INFO - Successfully fetched movie title 169. Trainspotting and director Danny Boyle.
+2023-11-26 11:18:57 - INFO - Successfully fetched movie title 170. The Bridge on the River Kwai and director David Lean.
+2023-11-26 11:19:04 - INFO - Sending batch requests for movies 171 to 180
+2023-11-26 11:19:04 - INFO - Successfully fetched movie title 171. Fargo and director Joel Coen.
+2023-11-26 11:19:04 - INFO - Successfully fetched movie title 172. Warrior and director Gavin O'Connor.
+2023-11-26 11:19:05 - INFO - Successfully fetched movie title 173. Catch Me If You Can and director Steven Spielberg.
+2023-11-26 11:19:05 - INFO - Successfully fetched movie title 174. Gran Torino and director Clint Eastwood.
+2023-11-26 11:19:05 - INFO - Successfully fetched movie title 175. My Neighbor Totoro and director Hayao Miyazaki.
+2023-11-26 11:19:05 - INFO - Successfully fetched movie title 176. Million Dollar Baby and director Clint Eastwood.
+2023-11-26 11:19:06 - INFO - Successfully fetched movie title 177. Klaus and director Sergio Pablos.
+2023-11-26 11:19:06 - INFO - Successfully fetched movie title 178. Harry Potter and the Deathly Hallows: Part 2 and director David Yates.
+2023-11-26 11:19:07 - INFO - Successfully fetched movie title 179. Children of Heaven and director Majid Majidi.
+2023-11-26 11:19:07 - INFO - Successfully fetched movie title 180. Blade Runner and director Ridley Scott.
+2023-11-26 11:19:17 - INFO - Sending batch requests for movies 181 to 190
+2023-11-26 11:19:17 - INFO - Successfully fetched movie title 181. 12 Years a Slave and director Steve McQueen.
+2023-11-26 11:19:17 - INFO - Successfully fetched movie title 182. Before Sunrise and director Richard Linklater.
+2023-11-26 11:19:18 - INFO - Successfully fetched movie title 183. The Grand Budapest Hotel and director Wes Anderson.
+2023-11-26 11:19:18 - INFO - Successfully fetched movie title 184. Ben-Hur and director William Wyler.
+2023-11-26 11:19:18 - INFO - Successfully fetched movie title 185. The Gold Rush and director Charles Chaplin.
+2023-11-26 11:19:18 - INFO - Successfully fetched movie title 186. Barry Lyndon and director Stanley Kubrick.
+2023-11-26 11:19:19 - INFO - Successfully fetched movie title 187. Gone Girl and director David Fincher.
+2023-11-26 11:19:19 - INFO - Successfully fetched movie title 188. Hacksaw Ridge and director Mel Gibson.
+2023-11-26 11:19:19 - INFO - Successfully fetched movie title 189. In the Name of the Father and director Jim Sheridan.
+2023-11-26 11:19:20 - INFO - Successfully fetched movie title 190. On the Waterfront and director Elia Kazan.
+2023-11-26 11:19:27 - INFO - Sending batch requests for movies 191 to 200
+2023-11-26 11:19:27 - INFO - Successfully fetched movie title 191. Memories of Murder and director Bong Joon Ho.
+2023-11-26 11:19:27 - INFO - Successfully fetched movie title 192. The General and director Clyde Bruckman.
+2023-11-26 11:19:27 - INFO - Successfully fetched movie title 193. The Deer Hunter and director Michael Cimino.
+2023-11-26 11:19:27 - INFO - Successfully fetched movie title 194. Wild Strawberries and director Ingmar Bergman.
+2023-11-26 11:19:27 - INFO - Successfully fetched movie title 195. Wild Tales and director Damián Szifron.
+2023-11-26 11:19:28 - INFO - Successfully fetched movie title 196. The Third Man and director Carol Reed.
+2023-11-26 11:19:28 - INFO - Successfully fetched movie title 197. Dead Poets Society and director Peter Weir.
+2023-11-26 11:19:28 - INFO - Successfully fetched movie title 198. The Wages of Fear and director Henri-Georges Clouzot.
+2023-11-26 11:19:28 - INFO - Successfully fetched movie title 199. Sherlock Jr. and director Buster Keaton.
+2023-11-26 11:19:28 - INFO - Successfully fetched movie title 200. Mad Max: Fury Road and director George Miller.
+2023-11-26 11:19:34 - INFO - Sending batch requests for movies 201 to 210
+2023-11-26 11:19:34 - INFO - Successfully fetched movie title 201. Monsters, Inc. and director Pete Docter.
+2023-11-26 11:19:35 - INFO - Successfully fetched movie title 202. Mr. Smith Goes to Washington and director Frank Capra.
+2023-11-26 11:19:35 - INFO - Successfully fetched movie title 203. Jaws and director Steven Spielberg.
+2023-11-26 11:19:35 - INFO - Successfully fetched movie title 204. How to Train Your Dragon and director Dean DeBlois.
+2023-11-26 11:19:35 - INFO - Successfully fetched movie title 205. Mary and Max and director Adam Elliot.
+2023-11-26 11:19:35 - INFO - Successfully fetched movie title 206. Ford v Ferrari and director James Mangold.
+2023-11-26 11:19:35 - INFO - Successfully fetched movie title 207. The Seventh Seal and director Ingmar Bergman.
+2023-11-26 11:19:35 - INFO - Successfully fetched movie title 208. Room and director Lenny Abrahamson.
+2023-11-26 11:19:36 - INFO - Successfully fetched movie title 209. The Big Lebowski and director Joel Coen.
+2023-11-26 11:19:36 - INFO - Successfully fetched movie title 210. Ratatouille and director Brad Bird.
+2023-11-26 11:19:42 - INFO - Sending batch requests for movies 211 to 220
+2023-11-26 11:19:42 - INFO - Successfully fetched movie title 211. Tokyo Story and director Yasujirô Ozu.
+2023-11-26 11:19:42 - INFO - Successfully fetched movie title 212. Rocky and director John G. Avildsen.
+2023-11-26 11:19:42 - INFO - Successfully fetched movie title 213. Hotel Rwanda and director Terry George.
+2023-11-26 11:19:42 - INFO - Successfully fetched movie title 214. Logan and director James Mangold.
+2023-11-26 11:19:43 - INFO - Successfully fetched movie title 215. Spotlight and director Tom McCarthy.
+2023-11-26 11:19:43 - INFO - Successfully fetched movie title 216. Platoon and director Oliver Stone.
+2023-11-26 11:19:43 - INFO - Successfully fetched movie title 217. The Passion of Joan of Arc and director Carl Theodor Dreyer.
+2023-11-26 11:19:43 - INFO - Successfully fetched movie title 218. The Terminator and director James Cameron.
+2023-11-26 11:19:43 - INFO - Successfully fetched movie title 219. Jai Bhim and director T.J. Gnanavel.
+2023-11-26 11:19:43 - INFO - Successfully fetched movie title 220. Before Sunset and director Richard Linklater.
+2023-11-26 11:19:51 - INFO - Sending batch requests for movies 221 to 230
+2023-11-26 11:19:51 - INFO - Successfully fetched movie title 221. Rush and director Ron Howard.
+2023-11-26 11:19:51 - INFO - Successfully fetched movie title 222. Network and director Sidney Lumet.
+2023-11-26 11:19:51 - INFO - Successfully fetched movie title 223. The Exorcist and director William Friedkin.
+2023-11-26 11:19:51 - INFO - Successfully fetched movie title 224. The Best Years of Our Lives and director William Wyler.
+2023-11-26 11:19:52 - INFO - Successfully fetched movie title 225. Stand by Me and director Rob Reiner.
+2023-11-26 11:19:52 - INFO - Successfully fetched movie title 226. La haine and director Mathieu Kassovitz.
+2023-11-26 11:19:52 - INFO - Successfully fetched movie title 227. The Wizard of Oz and director Victor Fleming.
+2023-11-26 11:19:52 - INFO - Successfully fetched movie title 228. Pirates of the Caribbean: The Curse of the Black Pearl and director Gore Verbinski.
+2023-11-26 11:19:52 - INFO - Successfully fetched movie title 229. The Incredibles and director Brad Bird.
+2023-11-26 11:19:52 - INFO - Successfully fetched movie title 230. Into the Wild and director Sean Penn.
+2023-11-26 11:19:58 - INFO - Sending batch requests for movies 231 to 240
+2023-11-26 11:19:58 - INFO - Successfully fetched movie title 231. Hachi: A Dog's Tale and director Lasse Hallström.
+2023-11-26 11:19:59 - INFO - Successfully fetched movie title 232. My Father and My Son and director Çagan Irmak.
+2023-11-26 11:19:59 - INFO - Successfully fetched movie title 233. To Be or Not to Be and director Ernst Lubitsch.
+2023-11-26 11:19:59 - INFO - Successfully fetched movie title 234. The Handmaiden and director Park Chan-wook.
+2023-11-26 11:19:59 - INFO - Successfully fetched movie title 235. Groundhog Day and director Harold Ramis.
+2023-11-26 11:19:59 - INFO - Successfully fetched movie title 236. The Battle of Algiers and director Gillo Pontecorvo.
+2023-11-26 11:19:59 - INFO - Successfully fetched movie title 237. The Grapes of Wrath and director John Ford.
+2023-11-26 11:20:00 - INFO - Successfully fetched movie title 238. Amores Perros and director Alejandro G. Iñárritu.
+2023-11-26 11:20:00 - INFO - Successfully fetched movie title 239. The Sound of Music and director Robert Wise.
+2023-11-26 11:20:00 - INFO - Successfully fetched movie title 240. Rebecca and director Alfred Hitchcock.
+2023-11-26 11:20:06 - INFO - Sending batch requests for movies 241 to 250
+2023-11-26 11:20:06 - INFO - Successfully fetched movie title 241. Cool Hand Luke and director Stuart Rosenberg.
+2023-11-26 11:20:06 - INFO - Successfully fetched movie title 242. The Iron Giant and director Brad Bird.
+2023-11-26 11:20:06 - INFO - Successfully fetched movie title 243. Pather Panchali and director Satyajit Ray.
+2023-11-26 11:20:07 - INFO - Successfully fetched movie title 244. It Happened One Night and director Frank Capra.
+2023-11-26 11:20:07 - INFO - Successfully fetched movie title 245. The Help and director Tate Taylor.
+2023-11-26 11:20:07 - INFO - Successfully fetched movie title 246. The 400 Blows and director François Truffaut.
+2023-11-26 11:20:07 - INFO - Successfully fetched movie title 247. Aladdin and director Ron Clements.
+2023-11-26 11:20:07 - INFO - Successfully fetched movie title 248. Dances with Wolves and director Kevin Costner.
+2023-11-26 11:20:07 - INFO - Successfully fetched movie title 249. Drishyam and director Nishikant Kamat.
+2023-11-26 11:20:07 - INFO - Successfully fetched movie title 250. Life of Brian and director Terry Jones.
+2023-11-26 11:20:07 - INFO - Using grequests library, top 250 movies and their directors were extracted from IMBD in 236.72016787528992 seconds.
