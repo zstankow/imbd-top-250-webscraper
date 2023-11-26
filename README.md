@@ -2,7 +2,7 @@
 
 Author: Zoe Stankowski
 
-## Comparting time efficiency of _requests_ and _grequests
+## Comparting time efficiency of _requests_ and _grequests_
 
 This code extracts the movie titles and directors of the Top 250 Movies ranking on IMBD using two different libraries: requests and grequests.
 
